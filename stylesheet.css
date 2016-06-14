@@ -13,6 +13,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
+    background-color: #263238;
 }
 
 .container {
@@ -41,14 +42,14 @@ body {
 }
 
 #second {
-    color: #EC407A;
+    color: #F50057;
 }
 #third {
     color: #8BC34A;
 }
 
 .welcome h2 {
-    color: #212121;
+    color: #ffffff;
     text-transform: bold;
     /*text-shadow: 1px 1px 1.5px #111111;*/
     font-family: 'Montserrat', sans-serif;
@@ -117,7 +118,7 @@ body {
     margin: auto;
     margin-top: 30px;
     font-size: 20px;
-    color: #212121;
+    color: #ffffff;
     text-align: center;
     font-weight: 400;
     max-width: 700px;
