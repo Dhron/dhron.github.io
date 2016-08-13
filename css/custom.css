@@ -1,0 +1,58 @@
+button.button-primary {
+    background-color: #4CAF50;
+    border-color: #66BB6A;
+    border-radius: 25px;
+}
+
+button.button-primary:hover {
+    background-color: #81C784;
+    border-color: #66BB6A;
+}
+
+button.button-primary:active, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+    background-color: #8BC34A;
+    border-color: #66BB6A;
+}
+
+button.button-primary:focus, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+    background-color: #8BC34A;
+    border-color: #66BB6A;
+}
+
+button a{
+    text-decoration: none;
+}
+
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.section {
+    text-align: center;
+}
+
+.section-heading,
+.section-description {
+    margin-bottom: 1.2rem;
+}
+
+.intro {
+    background-image: url('https://hd.unsplash.com/photo-1470439058509-295625152166');
+    background-size: cover;
+    min-height: 500px;
+    height: 100vh;
+    box-shadow: inset 0 0 5em 1em #222;
+    color: #fff;
+}
+
+
+/*Profile*/
+
+#profile {
+    border-radius: 1000px;
+    border-color: #fff;
+    border-width: 5px;
+    border-style: solid;
+    width: 20%;
+    height: 20%;
+}
