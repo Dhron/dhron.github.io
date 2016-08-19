@@ -37,11 +37,11 @@ button a{
 }
 
 .intro {
-    background-image: url('https://hd.unsplash.com/photo-1470439058509-295625152166');
+    background-image: url('https://hd.unsplash.com/photo-1467560433578-7b5198ea9cbf');
     background-size: cover;
     min-height: 500px;
     height: 100vh;
-    box-shadow: inset 0 0 5em 1em #222;
+    box-shadow: inset 0 0 5em 1em #000;
     color: #fff;
 }
 
