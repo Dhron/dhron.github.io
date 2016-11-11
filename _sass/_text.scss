@@ -29,11 +29,12 @@ h6 { font-size: $fs-h6; }
 .lead {
   font-size: 1.25rem;
   line-height: 1.6;
-  p { margin-bottom: 1.5rem; }
+  p { margin-bottom: 5px; }
 }
 
 .pretty-links {
-  a { @include make-link($link-color, $link-hover-color, $body-bg); }
+  a { @include make-link($link-color, $link-hover-color, $body-bg); 
+  }
 }
 
 hr {
@@ -49,7 +50,7 @@ small,
 }
 
 @include mq-up(md) {
-  .lead { font-size: 1.5rem; }
+  .lead { font-size: 1.25rem; }
 }
 
 // TEXT - CODE ------------------

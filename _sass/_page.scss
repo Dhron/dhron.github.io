@@ -173,6 +173,11 @@ p.post-desc {
   margin: -.4rem 1rem 0 $spacer;
 }
 
+.site-profile img{
+  border-radius: 50%;
+  border: 1px solid #ccc;
+}
+
 @include mq-up(md) {
   .site-profile {
     width: 144px;

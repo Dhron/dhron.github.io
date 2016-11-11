@@ -142,12 +142,13 @@
 }
 
 .site-contact li,
-.site-source li {
+.site-source li a{
 
   &:not(:last-child)::after {
     content: '|';
     color: $brand-light-color;
     margin: 0 .3rem 0 $spacer0;
+    text-decoration: none;
   }
 }
 
@@ -168,7 +169,8 @@
 // SITE SELECTION ====================================
 
 ::-moz-selection {
-  background-color: $brand-color;
+  
+  color: $brand-color;
   color: #fff;
   text-shadow: none;
 }
