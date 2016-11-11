@@ -12,6 +12,7 @@ CS 246 ISA &#124; [WATERLOO](http://uwaterloo.ca)
 DRAGON BOAT TEAM &#124; [UWDBC](http://uwdbc.com)
 
 READING &#124; [Gödel, Escher, Bach: an Eternal Golden Braid](http://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
+
 ***
 
 ## PAST
