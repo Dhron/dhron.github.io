@@ -7,7 +7,7 @@ $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fff;
 
-$blue:                      #3DA1CC;
+$blue:                      #DF2498;
 $light-blue:                lighten($blue, 45%);
 $dark-blue:                 darken($blue, 20%);
 
@@ -47,9 +47,9 @@ $border-radius-sm:          .2rem;
 $border-radius-lg:          .3rem;
 
 // GLOBALS - FONTS ------------------
-$font-family:               "Didact Gothic", sans-serif;
+$font-family:               "Montserrat", sans-serif;
 $font-family-monospace:     Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-heading:              "Didact Gothic", sans-serif;
+$font-heading:              "Montserrat", sans-serif;
 
 $lh:                        1;
 $lh-sm:                     1.1;
