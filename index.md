@@ -6,8 +6,6 @@ layout: default
 ## CURRENT
 
 COMPUTER SCIENCE &#124; [WATERLOO](http://uwaterloo.ca)
- 
-CS 246 ISA &#124; [WATERLOO](http://uwaterloo.ca)
 
 DRAGON BOAT TEAM &#124; [UWDBC](http://uwdbc.com)
 
@@ -16,6 +14,8 @@ READING &#124; [Gödel, Escher, Bach: an Eternal Golden Braid](http://www.goodre
 ***
 
 ## PAST
+
+CS 246 ISA &#124; [WATERLOO](https://www.student.cs.uwaterloo.ca/~cs246/)
 
 ATTENDEE &#124; [HACKHARVARD](http://hackharvard.io) &#124; [HACKWESTERN](http://hackwestern.com)
 
