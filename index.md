@@ -5,7 +5,7 @@ layout: default
 <div class="lead pretty-links">
 ## CURRENT
 
-COMPUTER SCIENCE &#124; [WATERLOO](http://uwaterloo.ca)
+COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
 DRAGON BOAT TEAM &#124; [UWDBC](http://uwdbc.com)
 
