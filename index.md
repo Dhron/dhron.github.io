@@ -3,13 +3,17 @@ layout: default
 ---
 
 <div class="lead pretty-links">
+## FUTURE
+
+WEB DEVELOPER &#124; [ONTARIO INSTITUTE OF CANCER RESEARCH](http://oicr.on.ca)
+
+***
+
 ## CURRENT
 
 COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
-DRAGON BOAT TEAM &#124; [UWDBC](http://uwdbc.com)
-
-READING &#124; [Gödel, Escher, Bach: an Eternal Golden Braid](http://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
+BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
 
 ***
 
