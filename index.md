@@ -21,7 +21,7 @@ BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
 
 CS 246 ISA &#124; [WATERLOO](https://www.student.cs.uwaterloo.ca/~cs246/)
 
-ATTENDEE &#124; [HACKHARVARD](http://hackharvard.io) &#124; [HACKWESTERN](http://hackwestern.com)
+HACKER &#124; [HACKHARVARD](http://hackharvard.io) &#124; [HACKWESTERN](http://hackwestern.com)
 
 TUTOR &#124; [KUMON](http://kumon.com)
 
