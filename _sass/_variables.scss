@@ -5,9 +5,9 @@ $gray-dark:                 #536075;
 $gray:                      #55595c;
 $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
-$gray-lightest:             #FAFFFD;
+$gray-lightest:             #EAEAF1;
 
-$blue:                      #009BF8;
+$blue:                      #BE3E2C;
 $light-blue:                lighten($blue, 45%);
 $dark-blue:                 darken($blue, 20%);
 
@@ -47,9 +47,9 @@ $border-radius-sm:          .2rem;
 $border-radius-lg:          .3rem;
 
 // GLOBALS - FONTS ------------------
-$font-family:               "Montserrat", sans-serif;
+$font-family:               'Lora', sans-serif;
 $font-family-monospace:     Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-heading:              "Montserrat", sans-serif;
+$font-heading:              'Lora', sans-serif;
 
 $lh:                        1;
 $lh-sm:                     1.1;

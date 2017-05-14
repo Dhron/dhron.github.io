@@ -3,13 +3,10 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-## FUTURE
-
-WEB DEVELOPER &#124; [ONTARIO INSTITUTE FOR CANCER RESEARCH](http://oicr.on.ca)
-
-***
 
 ## CURRENT
+
+WEB DEVELOPER &#124; [ONTARIO INSTITUTE FOR CANCER RESEARCH](http://oicr.on.ca)
 
 COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
