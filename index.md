@@ -6,8 +6,6 @@ layout: default
 
 ## CURRENT
 
-WEB DEVELOPER &#124; [ONTARIO INSTITUTE FOR CANCER RESEARCH](http://oicr.on.ca)
-
 COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
 BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
@@ -15,6 +13,8 @@ BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
 ***
 
 ## PAST
+
+WEB DEVELOPER &#124; [ONTARIO INSTITUTE FOR CANCER RESEARCH](http://oicr.on.ca)
 
 CS 246 ISA &#124; [WATERLOO](https://www.student.cs.uwaterloo.ca/~cs246/)
 
