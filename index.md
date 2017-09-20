@@ -8,7 +8,8 @@ layout: default
 
 COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
-BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
+LOOKING FOR AN INTERNSHIP FOR WINTER 2018 &#124;  [RESUME](/assets/resume.pdf)
+
 
 ***
 
@@ -16,11 +17,9 @@ BIOINFORMATICS CLUB &#124; [BIC](http://bic.uwaterloo.ca/)
 
 WEB DEVELOPER &#124; [ONTARIO INSTITUTE FOR CANCER RESEARCH](http://oicr.on.ca)
 
-CS 246 ISA &#124; [WATERLOO](https://www.student.cs.uwaterloo.ca/~cs246/)
+CS 246 TA &#124; [WATERLOO](https://www.student.cs.uwaterloo.ca/~cs246/)
 
-HACKER &#124; [HACKHARVARD](http://hackharvard.io) &#124; [HACKWESTERN](http://hackwestern.com)
-
-TUTOR &#124; [KUMON](http://kumon.com)
+HACKER &#124; [HACKTHENORTH](http://hackthenorth.com) &#124; [HACKHARVARD](http://hackharvard.io) &#124; [HACKWESTERN](http://hackwestern.com)
 
 EXEC &#124; [KONNICHIWA JAPAN](http://uwkonja.com)
 </div>
