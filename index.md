@@ -8,7 +8,7 @@ layout: default
 
 COMPUTER SCIENCE &#124; [WATERLOO](http://cs.uwaterloo.ca)
 
-LOOKING FOR AN INTERNSHIP FOR WINTER 2018 &#124;  [RESUME](/assets/resume.pdf)
+LOOKING FOR AN INTERNSHIP FOR WINTER 2018 (JAN - APRIL) &#124;  [RESUME](/assets/resume.pdf)
 
 
 ***
