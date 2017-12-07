@@ -1,63 +1,31 @@
-# The main config file for your Jekyll template
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site settings
-title: Dhron               # used for the html title of every page
-desc: >
-  CS student @ UWaterloo. Passionate about Computer Science, Biology, Korean Dramas and memes.
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
 
-url: http://dhron.xyz      # put your website hosting url here
-baseurl: ''                 # the subpath of your site, e.g. /blog
-permalink: /:year/:title/   # how should we display posts url
+# Setup
+title:            Dhron
+tagline:          'Life of a CS Undergrad'
+description:      'University of Waterloo ''20 | CS' 
+baseurl:          /
 
-# Meta settings
-email: dhron.joshi@hotmail.com
-author: DHRON JOSHI
-twitter_username: dhronj
-github_username: dhron
+author:
+  name:           'Dhron Joshi'
+  url:            https://twitter.com/dhron
 
-# Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+paginate:         5
 
-# Pagination settings
-paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+# Custom vars
+version:          2.1.0
 
-# Navigation settings
-# Used to define the navigation menu items
-# > Title is the tile of the navigation item, url the url and desc is the tooltip
-navigation:
-  - title: PROJECTS
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: WORK
-    url: /work/
-    desc: Stuffs I hate to do
-  - title: ABOUT
-    url: /about/
-    desc: Learn about me
-
-# Used by Jekyll to recognize what is a post and what is a page
-defaults:
-  -
-    scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-
-# Markdown parser settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false          # you can change this if you feel like it
-  parse_block_html: true    # allow parsing html inside markdown
-
-# Build settings
-include:
-  - _pages                  # all your pages can be put inside pages (except articles)
-exclude:
-  - README.md
-  - vendor
-gems:
-  - jekyll-paginate
-
+github:
+  repo:           https://github.com/dhron
+plugins: [jekyll-paginate]
+quora: https://www.quora.com/dhron-joshi
+insta: https://www.instagram.com/dhronj
+twitter: https://www.twitter.com/dhronj
+email: mailto:dhron.joshi@hotmail.com
+resume: /resume.pdf
