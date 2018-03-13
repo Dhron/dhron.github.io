@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +56,9 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  /*color: rgba(255,255,255,.5);*/
+  color: #000;
+  background-color: #fff;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,21 +66,21 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 19rem;
     text-align: left;
   }
 }
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #000;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #D8002F;
   margin-top: 0;
-  font-family: "Kite One", serif;
+  font-family: "Open Sans", serif;
   font-size: 3.25rem;
 }
 
@@ -313,6 +314,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0fb .content a,
 .theme-base-0fb .related-posts li a:hover {
   color: #3B5998;
+}
+
+.theme-base-0wh .sidebar {
+  background-color: #fff;
+}
+.theme-base-0wh .content a,
+.theme-base-0wh .related-posts li a:hover {
+  color: #000;
 }
 
 
