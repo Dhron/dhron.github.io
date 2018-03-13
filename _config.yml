@@ -11,7 +11,7 @@ title:            Dhron
 tagline:          'Life of a CS Undergrad'
 description:      'University of Waterloo ''20 | CS' 
 url:               http://www.dhron.co
-baseurl:          /
+baseurl:          http://www.dhron.co/
 
 author:
   name:           'Dhron Joshi'
