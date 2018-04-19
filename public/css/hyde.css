@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Quattrocento Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   /*color: rgba(255,255,255,.5);*/
-  color: #000;
+  color: #fff;
   background-color: #fff;
 }
 @media (min-width: 48em) {
@@ -73,14 +73,14 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #fff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #D8002F;
+  color: #fff;
   margin-top: 0;
-  font-family: "Open Sans", serif;
+  font-family: 'Quattrocento Sans', sans-serif;
   font-size: 3.25rem;
 }
 
@@ -324,4 +324,10 @@ a.sidebar-nav-item:focus {
   color: #000;
 }
 
-
+.theme-base-0cs .sidebar {
+  background-color: #B71233;
+}
+.theme-base-0cs .content a,
+.theme-base-0cs .related-posts li a:hover {
+  color: #B71233;
+}

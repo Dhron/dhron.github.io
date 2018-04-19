@@ -9,9 +9,11 @@ permalink:        pretty
 # Setup
 title:            Dhron
 tagline:          'Life of a CS Undergrad'
-description:      'University of Waterloo ''20 | CS' 
-url:               http://www.dhron.co
-baseurl:          http://www.dhron.co/
+description:      | 
+ University of Waterloo
+
+url:  '/'             
+baseurl: '/'         
 
 author:
   name:           'Dhron Joshi'
