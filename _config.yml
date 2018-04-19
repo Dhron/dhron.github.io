@@ -12,8 +12,8 @@ tagline:          'Life of a CS Undergrad'
 description:      | 
  University of Waterloo
 
-url:         
-baseurl: 
+url:         http://www.dhron.co
+baseurl:     http://www.dhron.co
 
 author:
   name:           'Dhron Joshi'
