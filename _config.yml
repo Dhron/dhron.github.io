@@ -1,34 +1,70 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge  
+# ----------------------------------------------------------------------------
+# Customize Options: Must Change
+#
+# Title:
+title: dhron's mind
+description: the blog of the man or the man of the blog
 
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+# Where the page will be deployed.
+# If it's https://foo.com/bar, just write "https://foo.com"
+url: "https://dhron.github.io"
 
-# Setup
-title:            Dhron
-tagline:          'Life of a CS Undergrad'
-description:      | 
- University of Waterloo
+# If you're deployging to a subdirectory (https://foo.com/bar/)
+# Then write "/bar/". Otherwise, remove this line.
 
-url:         http://www.dhron.xyz
-baseurl:     http://www.dhron.xyz
-
+# Twitter IDs
+twitter:
+  username: "dhronj"
 author:
-  name:           'Dhron Joshi'
-  url:            https://twitter.com/dhron
+  twitter: "dhronj"
 
-paginate:         5
+# Set default og:image
+# From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "static/images/og.jpg"
 
-# Custom vars
-version:          2.1.0
+# ----------------------------------------------------------------------------
+# Customize Options: Optional
+#
+# See: https://material.io/guidelines/style/color.html
+# Use color-name-value, like pink-200 or deep-purple-100
+brand_color: "amber-400"
 
-github:
-  repo:           https://github.com/Dhron/dhron.github.io
-plugins: [jekyll-paginate]
-quora: https://www.quora.com/dhron-joshi
-insta: https://www.instagram.com/dhronj
-twitter: https://www.twitter.com/dhronj
-email: mailto:dhron.joshi@hotmail.com
-resume: /resume.pdf
+# How article URLs are structured.
+# See: https://jekyllrb.com/docs/permalinks/
+permalink: posts/:title/
+
+# "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Language. For example, if you write in Japanese, use "ja"
+lang: "en"
+
+# How many posts are visible on the home page without clicking "View More"
+num_posts_visible_initially: 5
+
+# Date format: See http://strftime.net/
+date_format: "%b %-d, %Y"
+# ----------------------------------------------------------------------------
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-readme-index
