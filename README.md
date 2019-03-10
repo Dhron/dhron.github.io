@@ -1,10 +1,13 @@
-![alt text](https://media.licdn.com/dms/image/C5603AQG2uelKLdTTQQ/profile-displayphoto-shrink_200_200/0?e=1551916800&v=beta&t=vPMXnTsGp1J3L852cO4208Ycc_zWWBTWxMMV4r1KIkE "Logo Title Text 1")
+<img src="https://pbs.twimg.com/profile_images/1104536813874614272/AHBbEBtk_400x400.jpg" width="200" height="200" />
+
 
 I'm a computer science student at the University of Waterloo!
 
-In the past, I've built production-scale stuff at [Narvar](https://www.narvar.com), an ETL pipeline at the [Ubiquitous Health Technology Lab](https://uwaterloo.ca/ubiquitous-health-technology-lab/), websites at the [Ontario Institute for Cancer Research](https://oicr.on.ca/), and taught OOP at [UWaterloo](https://cs.uwaterloo.ca/)!
+I'll be interning at [Uber](https://www.uber.com/info/atg/) this summer!
 
-sometimes I code, write blog posts, and take pictures. stick around and explore! (it's a work in progress ok)
+Currently I'm looking for Fall 19' internships!
+
+In the past, I've built production-scale stuff at [Narvar](https://www.narvar.com), an ETL pipeline at the [Ubiquitous Health Technology Lab](https://uwaterloo.ca/ubiquitous-health-technology-lab/), websites at the [Ontario Institute for Cancer Research](https://oicr.on.ca/), and taught OOP at [UWaterloo](https://cs.uwaterloo.ca/)!
 
 Want to get in touch?
 
