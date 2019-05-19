@@ -3,9 +3,9 @@
 
 I'm a computer science student at the University of Waterloo!
 
-I'll be interning at [Uber](https://www.uber.com/info/atg/) this summer!
+Currently interning at [Uber](https://www.uber.com/info/atg/)!
 
-Currently I'm looking for Fall 19' internships!
+I'm also looking for Fall 19' internships!
 
 In the past, I've built production-scale stuff at [Narvar](https://www.narvar.com), an ETL pipeline at the [Ubiquitous Health Technology Lab](https://uwaterloo.ca/ubiquitous-health-technology-lab/), websites at the [Ontario Institute for Cancer Research](https://oicr.on.ca/), and taught OOP at [UWaterloo](https://cs.uwaterloo.ca/)!
 
