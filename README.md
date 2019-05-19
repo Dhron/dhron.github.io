@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/1104536813874614272/AHBbEBtk_400x400.jpg" width="200" height="200" />
+<img src="https://pbs.twimg.com/profile_images/1128266736921403392/FCYW8aIO_400x400.jpg" width="200" height="200" />
 
 
 I'm a computer science student at the University of Waterloo!
