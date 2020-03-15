@@ -1,9 +1,30 @@
 @import "./ayu.css";
-/*@import "./normalize.css";*/
+@import "./normalize.css";
 @import "./skeleton.css";
 
-img {
+.id {
+  border-style: solid;
+  border-color: rgb(101, 181, 255);
+  border-width: 0.5rem;
   border-radius: 50%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+.id:hover {
+  border-color: aquamarine;
+  transition: border-color 0.5s ease;
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+  -webkit-transition: border-color 0.5s ease;
+}
+
+i{
+  color: #ccc;
+}
+
+i:hover{
+  transition: color 0.5s ease;
+  color: rgb(0, 255, 157);
 }
 
 html {
