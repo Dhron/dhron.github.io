@@ -6,7 +6,7 @@
 * http://www.opensource.org/licenses/mit-license.php
 * 12/29/2014
 */
-
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Hind", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu Mono", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 

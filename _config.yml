@@ -2,8 +2,8 @@
 # Customize Options: Must Change
 #
 # Title:
-title: dhron
-description: a man like dhron
+title: Dhron
+description: Dhron Joshi
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
@@ -17,6 +17,12 @@ twitter:
   username: "dhronj"
 author:
   twitter: "dhronj"
+
+contact:
+  email: mailto:dhron.joshi@hotmail.com
+  linkedin: "https://linkedin.com/in/dhron"
+  twitter: "https://twitter.com/dhronj"
+  github: "https://github.com/dhron"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
