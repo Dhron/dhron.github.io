@@ -7,6 +7,7 @@
 * 12/29/2014
 */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -124,7 +125,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Ubuntu Mono", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lora", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
