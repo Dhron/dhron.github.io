@@ -1,4 +1,4 @@
-<img class="id" src="dhron.jpg" width="200" height="200" />
+<img class="id" src="dhron.jpg" width="350" height="350" />
 
 hi, my name is dhron 👋🏽  
   
